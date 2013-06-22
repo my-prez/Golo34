@@ -10,9 +10,9 @@ Cela génère `fast.1.0;jar`, les ressources statiques et les scripts golo sont 
 
 ##Lancer
 
-1- Dans un terminal : lancez `redis-server`
-2- Puis lancez : `java -jar fast.1.0.jar`
-3- Ouvrez votre navigateur sur `http://localhost:9999`
-4- Enjoy!
+- Dans un terminal : lancez `redis-server`
+- Puis lancez : `java -jar fast.1.0.jar`
+- Ouvrez votre navigateur sur `http://localhost:9999`
+- Enjoy!
 
 **Si vous avez besoin d'infos pour refaire le projet pas à pas, contactez moi sans hésiter. @+**
